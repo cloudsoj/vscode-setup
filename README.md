@@ -5,7 +5,7 @@
 - File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons">Catppuccin Icons for VSCode</a>
 - Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>
 
-![VSCode Setup](screenshot.png)
+![VSCode Setup](screenshot.webp)
 
 ## License
 
